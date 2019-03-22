@@ -1,5 +1,6 @@
 # Game Jam 2.0 (March 2019)
 
+[Presentation](https://louvainlinux.github.io/gamejam/2019/slides.html)
 
 
 ## Miscellaneous
